@@ -1,15 +1,13 @@
 # SQL_Project
-Air Cargo Analysis
+## Air Cargo Analysis
 
-Air Cargo Analysis
-
-Objective:
- Effective way to Write Queries to use fetch data using different Functions
+<strong>Objective:</strong>
+  Effective way to Write Queries to use fetch data using different Functions
 
 Used Tool and Language:
-•	Tool: MySQL
-•	Language: SQL
-•	Server: Mysql Server
+<br>•	Tool: MySQL
+<br>•	Language: SQL
+<br>•	Server: Mysql Server
 
 
 Following operations should be performed: 
